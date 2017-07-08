@@ -1,2 +1,2 @@
 # DreamMinecraftLauncher
-來自次元動力的一款簡單高效的Minecraft啓動器
+不求一味化簡，衹求簡繁有度
